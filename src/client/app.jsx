@@ -101,7 +101,7 @@ export default function App() {
   return (
     <div className="asset-app">
       <header className="app-header">
-        <h1>Asset Tracking Manager</h1>
+        <h1>Asset Tracker</h1>
         <button 
           onClick={() => setShowForm(true)} 
           className="add-asset-btn"

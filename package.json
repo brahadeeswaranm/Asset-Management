@@ -1,7 +1,7 @@
 {
-    "name": "x-1397622-asset-tracki",
+    "name": "x-1397622-asset-tracker",
     "version": "1.0.0",
-    "description": "[BUILD AGENT GENERATED]:  A comprehensive asset tracking application with React UI for managing and monitoring assets, including asset details, status tracking, and location management.",
+    "description": "A comprehensive asset tracking application with React UI for managing and monitoring assets, including asset details, status tracking, and location management.",
     "license": "UNLICENSED",
     "scripts": {
         "build": "now-sdk build",
